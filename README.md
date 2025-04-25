@@ -1,8 +1,8 @@
 # Random-username-generator-1
 import random
 import string 
-adjectives = ["Cool", "Fast", "Smart", "Happy"]
-nouns = ["Cat", "Dog", "Fox", "Bear"]
+adjectives = ["beautiful", "me", "Happy", "cute"]
+nouns = ["daisy", "classy", "place", "teddy"]
 adjective = random.choice(adjectives)
 noun = random.choice(nouns)
 number = random.randint(1, 99)
